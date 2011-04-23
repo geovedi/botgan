@@ -8,12 +8,10 @@ __date__    =   "2010/02/01"
 """
 
 import itertools
-import os
 import random
 import re
 import readline
 import sys
-import time
 import urllib
 
 from BeautifulSoup import BeautifulSoup, SoupStrainer

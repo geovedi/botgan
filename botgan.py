@@ -49,7 +49,7 @@ DEFAULT_EXCUSES = [
 
 
 def kaskus_search(keywords):
-    archive_url = 'http://archive.kaskus.us/search'
+    archive_url = 'http://archive.kaskus.co.id/search'
     page = urllib.urlopen(archive_url, urllib.urlencode({'q':keywords}))
     links = []
     for link in BeautifulSoup(page, parseOnlyThese=SoupStrainer('a')):

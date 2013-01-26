@@ -29,9 +29,7 @@ I'm tired of this kind of bullshit. I, hereby, choose WTFPL (Do What The Fuck Yo
 
 	           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 	                   Version 2, December 2004
-	
-	Copyright (C) 2011 Jim Geovedi <jim@geovedi.com>
-	
+		
 	Everyone is permitted to copy and distribute verbatim or modified
 	copies of this license document, and changing it is allowed as long
 	as the name is changed.
